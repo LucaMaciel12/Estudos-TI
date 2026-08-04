@@ -1,14 +1,6 @@
-<div align="center">
-
 # 📚 Estudos-TI
 
 Repositório dedicado aos meus estudos, exercícios práticos e experimentos em diferentes tecnologias da área de Tecnologia da Informação.
-
-![GitHub last commit](https://img.shields.io/github/last-commit/LucaMaciel12/Estudos-TI)
-![GitHub repo size](https://img.shields.io/github/repo-size/LucaMaciel12/Estudos-TI)
-![GitHub language count](https://img.shields.io/github/languages/count/LucaMaciel12/Estudos-TI)
-
-</div>
 
 ---
 
@@ -84,9 +76,3 @@ https://www.linkedin.com/in/luca-maciel-9328b2363/
 https://github.com/LucaMaciel12
 
 ---
-
-<div align="center">
-
-⭐ Se este repositório foi útil para você, considere deixar uma estrela!
-
-</div>
