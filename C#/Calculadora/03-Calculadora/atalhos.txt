@@ -1,0 +1,6 @@
+atalhos
+
+CTRL + K + D - Indentar todo o código
+CTRL + K + F - Indentar a linha selecionada
+CTRL + K + C - Comenta a linha selecionada
+CTRL + K + U - Descomenta a linha selecionada

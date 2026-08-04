@@ -1,0 +1,10 @@
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\07-BuscaCEP.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\_07_BuscaCEP.frmBuscaCEP.resources
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\_07_BuscaCEP.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\07-BuscaCEP.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\07-BuscaCEP.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\bin\Debug\07-BuscaCEP.exe.config
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\bin\Debug\07-BuscaCEP.exe
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\bin\Debug\07-BuscaCEP.pdb
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\07-BuscaCEP.exe
+C:\Users\fabio.correa\source\repos\07-BuscaCEP\07-BuscaCEP\obj\Debug\07-BuscaCEP.pdb

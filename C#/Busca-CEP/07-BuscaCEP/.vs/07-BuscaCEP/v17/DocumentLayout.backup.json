@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio.correa\\source\\repos\\07-BuscaCEP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7FA8AA-A240-4530-9940-F6271EB7394E}|07-BuscaCEP\\07-BuscaCEP.csproj|c:\\users\\fabio.correa\\source\\repos\\07-buscacep\\07-buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7FA8AA-A240-4530-9940-F6271EB7394E}|07-BuscaCEP\\07-BuscaCEP.csproj|solutionrelative:07-buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7FA8AA-A240-4530-9940-F6271EB7394E}|07-BuscaCEP\\07-BuscaCEP.csproj|c:\\users\\fabio.correa\\source\\repos\\07-buscacep\\07-buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E7FA8AA-A240-4530-9940-F6271EB7394E}|07-BuscaCEP\\07-BuscaCEP.csproj|solutionrelative:07-buscacep\\frmbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmBuscaCEP.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\07-BuscaCEP\\07-BuscaCEP\\frmBuscaCEP.cs",
+              "RelativeDocumentMoniker": "07-BuscaCEP\\frmBuscaCEP.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\07-BuscaCEP\\07-BuscaCEP\\frmBuscaCEP.cs*",
+              "RelativeToolTip": "07-BuscaCEP\\frmBuscaCEP.cs*",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAHsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:54:13.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBuscaCEP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\07-BuscaCEP\\07-BuscaCEP\\frmBuscaCEP.cs",
+              "RelativeDocumentMoniker": "07-BuscaCEP\\frmBuscaCEP.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\07-BuscaCEP\\07-BuscaCEP\\frmBuscaCEP.cs [Design]*",
+              "RelativeToolTip": "07-BuscaCEP\\frmBuscaCEP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T22:45:28.371Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

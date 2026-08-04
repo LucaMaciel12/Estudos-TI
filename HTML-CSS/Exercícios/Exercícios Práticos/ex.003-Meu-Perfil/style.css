@@ -1,0 +1,44 @@
+    @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+    *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body{
+        /*Background-color é para mudar a cor de fundo*/ 
+        /*Color é para mudar a cor da fonte*/
+        background-color: #F4F0EA;
+        color: #798252;
+        font-family: "Cabin", sans-serif;
+        font-weight: 400;
+        }
+
+        h1{
+            padding:2rem;
+            text-align: center;
+        }
+
+        .luca-maciel{
+            display: block;
+            margin: 0 auto;
+        }
+
+        p{
+           padding: 2rem;
+           gap:1rem;
+        }
+
+        h2{
+            padding: 2rem;
+            text-align:left;
+        }
+
+        .meios-contato{
+            padding: 2rem;
+        }
+
+        .midias-sociais {
+            padding: 2rem;
+        }

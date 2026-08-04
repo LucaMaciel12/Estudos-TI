@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|c:\\users\\fabio.correa\\source\\repos\\05-gerenciadordetarefas\\05-gerenciadordetarefas\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|solutionrelative:05-gerenciadordetarefas\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-gerenciadordetarefas\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|solutionrelative:05-gerenciadordetarefas\\frmtarefas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-gerenciadordetarefas\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8980383-DEB2-4213-992B-6B90F612089B}|05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas.csproj|solutionrelative:05-gerenciadordetarefas\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\Tarefa.cs",
+              "RelativeDocumentMoniker": "05-GerenciadorDeTarefas\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\Tarefa.cs",
+              "RelativeToolTip": "05-GerenciadorDeTarefas\\Tarefa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:08:23.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTarefas.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "RelativeDocumentMoniker": "05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "RelativeToolTip": "05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAArwKYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:01:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTarefas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "RelativeDocumentMoniker": "05-GerenciadorDeTarefas\\frmTarefas.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\05-GerenciadorDeTarefas\\05-GerenciadorDeTarefas\\frmTarefas.cs [Design]",
+              "RelativeToolTip": "05-GerenciadorDeTarefas\\frmTarefas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:43:20.603Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

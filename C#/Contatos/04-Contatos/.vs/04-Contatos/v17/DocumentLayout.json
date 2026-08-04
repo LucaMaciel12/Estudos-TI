@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61BDFDE1-907B-4689-9B7D-E409892E55B1}|04-Contatos\\04-Contatos.csproj|c:\\users\\fabio.correa\\source\\repos\\04-contatos\\04-contatos\\frmcontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61BDFDE1-907B-4689-9B7D-E409892E55B1}|04-Contatos\\04-Contatos.csproj|solutionrelative:04-contatos\\frmcontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61BDFDE1-907B-4689-9B7D-E409892E55B1}|04-Contatos\\04-Contatos.csproj|C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\04-contatos\\frmcontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{61BDFDE1-907B-4689-9B7D-E409892E55B1}|04-Contatos\\04-Contatos.csproj|solutionrelative:04-contatos\\frmcontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmContatos.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\04-Contatos\\frmContatos.cs",
+              "RelativeDocumentMoniker": "04-Contatos\\frmContatos.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\04-Contatos\\frmContatos.cs",
+              "RelativeToolTip": "04-Contatos\\frmContatos.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAswMMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:52:29.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmContatos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\04-Contatos\\frmContatos.cs",
+              "RelativeDocumentMoniker": "04-Contatos\\frmContatos.cs",
+              "ToolTip": "C:\\Users\\fabio.correa\\source\\repos\\04-Contatos\\04-Contatos\\frmContatos.cs [Design]",
+              "RelativeToolTip": "04-Contatos\\frmContatos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T21:34:23.835Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

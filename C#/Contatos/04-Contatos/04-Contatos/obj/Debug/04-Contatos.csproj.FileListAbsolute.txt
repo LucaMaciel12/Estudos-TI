@@ -1,0 +1,10 @@
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\bin\Debug\04-Contatos.exe.config
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\bin\Debug\04-Contatos.exe
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\bin\Debug\04-Contatos.pdb
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\04-Contatos.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\_04_Contatos.frmContatos.resources
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\_04_Contatos.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\04-Contatos.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\04-Contatos.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\04-Contatos.exe
+C:\Users\fabio.correa\source\repos\04-Contatos\04-Contatos\obj\Debug\04-Contatos.pdb

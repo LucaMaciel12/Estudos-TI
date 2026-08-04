@@ -1,0 +1,10 @@
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\bin\Debug\08-EnviaEmail.exe.config
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\bin\Debug\08-EnviaEmail.exe
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\bin\Debug\08-EnviaEmail.pdb
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\08-EnviaEmail.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\_08_EnviaEmail.frmEnviaEmail.resources
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\_08_EnviaEmail.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\08-EnviaEmail.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\08-EnviaEmail.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\08-EnviaEmail.exe
+C:\Users\fabio.correa\source\repos\08-EnviaEmail\08-EnviaEmail\obj\Debug\08-EnviaEmail.pdb

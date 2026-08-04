@@ -1,0 +1,10 @@
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\bin\Debug\05-GerenciadorDeTarefas.exe.config
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\bin\Debug\05-GerenciadorDeTarefas.exe
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\bin\Debug\05-GerenciadorDeTarefas.pdb
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\05-GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\_05_GerenciadorDeTarefas.frmTarefas.resources
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\_05_GerenciadorDeTarefas.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\05-GerenciadorDeTarefas.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\05-GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\05-GerenciadorDeTarefas.exe
+C:\Users\fabio.correa\source\repos\05-GerenciadorDeTarefas\05-GerenciadorDeTarefas\obj\Debug\05-GerenciadorDeTarefas.pdb

@@ -1,0 +1,14 @@
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\bin\Debug\09-CadastroPessoas.exe.config
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\bin\Debug\09-CadastroPessoas.exe
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\bin\Debug\09-CadastroPessoas.pdb
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\09-CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.frmLogin.resources
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\09-CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\09-CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\09-CadastroPessoas.exe
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\09-CadastroPessoas.pdb
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.Telas.frmPrincipal.resources
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.Telas.frmTrocaSenha.resources
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.Telas.frmFone.resources
+C:\Users\fabio.correa\source\repos\09-CadastroPessoas\09-CadastroPessoas\obj\Debug\_09_CadastroPessoas.Telas.frmUsuarios.resources

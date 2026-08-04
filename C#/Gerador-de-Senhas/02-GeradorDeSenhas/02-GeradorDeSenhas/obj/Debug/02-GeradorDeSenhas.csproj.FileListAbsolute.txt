@@ -1,0 +1,10 @@
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\bin\Debug\02-GeradorDeSenhas.exe.config
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\bin\Debug\02-GeradorDeSenhas.exe
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\bin\Debug\02-GeradorDeSenhas.pdb
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\02-GeradorDeSenhas.csproj.AssemblyReference.cache
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\_02_GeradorDeSenhas.frmPrincipal.resources
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\_02_GeradorDeSenhas.Properties.Resources.resources
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\02-GeradorDeSenhas.csproj.GenerateResource.cache
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\02-GeradorDeSenhas.csproj.CoreCompileInputs.cache
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\02-GeradorDeSenhas.exe
+C:\Users\fabio.correa\source\repos\02-GeradorDeSenhas\02-GeradorDeSenhas\obj\Debug\02-GeradorDeSenhas.pdb
